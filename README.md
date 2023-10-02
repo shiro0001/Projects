@@ -1,6 +1,8 @@
 # Projects
-**Movie_Reccomendation** - Using "The Movie Database (TMDB) API" create a movie recommender when the user input a movie name.
+**Movie_Reccomendation** - Utilize "The Movie Database (TMDB) API" to develop a movie recommendation system that generates suggestions based on user input of a movie title.
 
-**Webscraping_StockData** - Using beautiful soup to scrape stock data.
+**Webscraping_StockData** - Leveraging BeautifulSoup to scrape stock data.
 
-**Selenium_StockWebScraping** - Using Selenium to scrape stock data from selected tech stock.
+**Selenium_StockWebScraping** - Utilizing Selenium for web scraping on selected tech stock data.
+
+**Stock predictor** - Building a distributed machine learning model for stock price prediction in AWS using PySpark **(Inprogress)**
