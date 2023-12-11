@@ -6,3 +6,6 @@
 **Selenium_StockWebScraping** - Utilizing Selenium for web scraping on selected tech stock data.
 
 **Stock predictor** - Building a distributed machine learning model for stock price prediction in AWS using PySpark **(Inprogress)**
+- stock prediction(downloading data)
+- stock prediction (clean, model, evaluation)
+  
